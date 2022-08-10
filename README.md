@@ -11,7 +11,7 @@ pip install -e .
 
 ## Setup from Git
 ```bash
-pip install git+https://github.com/faisaltareque/multi_lingual_rouge_BPE_tokenizer
+pip install git+https://github.com/faisaltareque/indic_sentence_tokenizer
 ```
 
 

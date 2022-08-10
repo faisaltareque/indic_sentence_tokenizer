@@ -1,0 +1,1 @@
+import indic_sentence_tokenizer as indic_sentence_tokenizer

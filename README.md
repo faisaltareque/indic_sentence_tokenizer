@@ -1,6 +1,6 @@
 # Indic Sentence Tokenizer
 
-This repo reduced from [indic_nlp_library](https://github.com/anoopkunchukuttan/indic_nlp_library) to be olny used for indic sentence tokenize.
+This repo reduced from [indic_nlp_library](https://github.com/anoopkunchukuttan/indic_nlp_library) to only used as indic sentence tokenizer.
   
 
 ## Setup from Clone
